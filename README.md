@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     &nbsp;
   <img  alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    &nbsp;
- <img alt="Android" src="https://img.shields.io/badge/Android-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img alt="Android" src="https://img.shields.io/badge/Android-339933?style=for-the-badge&logo=android&logoColor=white"/>
   &nbsp;
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     &nbsp;
