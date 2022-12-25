@@ -33,9 +33,8 @@ Here are some ideas to get you started:
   &nbsp;
  <img alt="Node js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   &nbsp;
- ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
-<img alt="Android" src="https://img.shields.io/badge/f-droid-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>&nbsp;
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
